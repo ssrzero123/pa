@@ -11,5 +11,6 @@ axiv-spyder_git_backup/
 __pycache__/
 *.py[cod]
 .env
+.ssh_known_hosts
 .venv/
 venv/
