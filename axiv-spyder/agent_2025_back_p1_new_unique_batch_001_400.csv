@@ -1,0 +1,401 @@
+author,email,arxiv_id,published,title,source
+Akash Kumar Panda,akashpan@usc.edu,2601.00097v3,2025-12-31T20:06:48Z,The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs,arxiv_html
+Bart Kosko,kosko@usc.edu,2601.00097v3,2025-12-31T20:06:48Z,The Agentic Leash: Extracting Causal Feedback Fuzzy Cognitive Maps with LLMs,arxiv_html
+Xiang Gao,xiang_gao@intuit.com,2601.00086v2,2025-12-31T19:40:10Z,RIMRULE: Improving Tool-Using Language Agents via MDL-Guided Rule Learning,arxiv_html
+Kamalika Das,kamalika_das@intuit.com,2601.00086v2,2025-12-31T19:40:10Z,RIMRULE: Improving Tool-Using Language Agents via MDL-Guided Rule Learning,arxiv_html
+Sotiris Kanellopoulos,s.kanellopoulos@athenarc.gr,2512.25033v1,2025-12-31T18:30:48Z,EF(X) Orientations: A Parameterized Complexity Perspective,arxiv_html
+Edouard Nemery,edouard.nemery@dauphine.psl.eu,2512.25033v1,2025-12-31T18:30:48Z,EF(X) Orientations: A Parameterized Complexity Perspective,arxiv_html
+Christos Pergaminelis,chr.pergaminelis@athenarc.gr,2512.25033v1,2025-12-31T18:30:48Z,EF(X) Orientations: A Parameterized Complexity Perspective,arxiv_html
+Minas Marios Sotiriou,minas_marios@outlook.com,2512.25033v1,2025-12-31T18:30:48Z,EF(X) Orientations: A Parameterized Complexity Perspective,arxiv_html
+Manolis Vasilakis,emmanouil.vasilakis@dauphine.eu,2512.25033v1,2025-12-31T18:30:48Z,EF(X) Orientations: A Parameterized Complexity Perspective,arxiv_html
+Yohan Park,john.a.park@kaist.ac.kr,2512.24985v3,2025-12-31T17:31:29Z,DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments,arxiv_html
+Hyunwoo Ha,hyunwooha@postech.ac.kr,2512.24985v3,2025-12-31T17:31:29Z,DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments,arxiv_html
+András Antos,antos@mit.bme.hu,2512.24959v1,2025-12-31T16:42:00Z,Semi-overlapping Multi-bandit Best Arm Identification for Sequential Support Network Learning,arxiv_html
+Péter Antal,antal@mit.bme.hu,2512.24959v1,2025-12-31T16:42:00Z,Semi-overlapping Multi-bandit Best Arm Identification for Sequential Support Network Learning,arxiv_html
+Yujun Cheng,yjcheng@ustb.edu.cn,2602.15831v1,2025-12-31T16:24:06Z,A2H: Agent-to-Human Protocol for AI Agent,arxiv_html
+Rabia Sonmez,20rsonmez@gmu.edu,2512.24944v1,2025-12-31T16:10:01Z,Interaction of a Vortex Pair with a Polymeric Fluid Layer,arxiv_html
+Ameet Gadekar,ameet.gadekar@cispa.de,2512.24934v1,2025-12-31T15:47:19Z,Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information,arxiv_html
+Sijing Tu,sijingtu93@gmail.com,2512.24934v1,2025-12-31T15:47:19Z,Fair Committee Selection under Ordinal Preferences and Limited Cardinal Information,arxiv_html
+Srija Mukhopadhyay,srija.mukhopadhyay@research.iiit.ac.in,2512.24848v1,2025-12-31T13:16:45Z,PrivacyBench: A Conversational Benchmark for Evaluating Privacy in Personalized AI,arxiv_html
+Sathwik Reddy,chintala.reddy@research.iiit.ac.in,2512.24848v1,2025-12-31T13:16:45Z,PrivacyBench: A Conversational Benchmark for Evaluating Privacy in Personalized AI,arxiv_html
+Shruthi Muthukumar,shruthi.muthukumar@research.iiit.ac.in,2512.24848v1,2025-12-31T13:16:45Z,PrivacyBench: A Conversational Benchmark for Evaluating Privacy in Personalized AI,arxiv_html
+Jisun An,jisunan@iu.edu,2512.24848v1,2025-12-31T13:16:45Z,PrivacyBench: A Conversational Benchmark for Evaluating Privacy in Personalized AI,arxiv_html
+Raul D. Steleac,raul.steleac@ed.ac.uk,2512.24827v2,2025-12-31T12:39:22Z,Discovering Coordinated Joint Options via Inter-Agent Relative Dynamics,arxiv_html
+Mohan Sridharan,m.sridharan@ed.ac.uk,2512.24827v2,2025-12-31T12:39:22Z,Discovering Coordinated Joint Options via Inter-Agent Relative Dynamics,arxiv_html
+David Abel,david.abel@ed.ac.uk,2512.24827v2,2025-12-31T12:39:22Z,Discovering Coordinated Joint Options via Inter-Agent Relative Dynamics,arxiv_html
+Rongge Xu,rongge@tsinghua.edu.cn,2512.24796v2,2025-12-31T11:33:29Z,LeanCat: A Benchmark Suite for Formal Category Theory in Lean (Part I: 1-Categories),arxiv_html
+Yutong Wang,yutong.wang@ia.ac.cn,2512.24754v1,2025-12-31T09:55:18Z,AstroReview: An LLM-driven Multi-Agent Framework for Telescope Proposal Peer Review and Refinement,arxiv_html
+Yunxiang Xiao,yunxiang.xiao@ia.ac.cn,2512.24754v1,2025-12-31T09:55:18Z,AstroReview: An LLM-driven Multi-Agent Framework for Telescope Proposal Peer Review and Refinement,arxiv_html
+Yonglin Tian,yonglin.tian@ia.ac.cn,2512.24754v1,2025-12-31T09:55:18Z,AstroReview: An LLM-driven Multi-Agent Framework for Telescope Proposal Peer Review and Refinement,arxiv_html
+Junyong Li,lijy83@gmail.com,2512.24754v1,2025-12-31T09:55:18Z,AstroReview: An LLM-driven Multi-Agent Framework for Telescope Proposal Peer Review and Refinement,arxiv_html
+Jing Wang,yutong.wang@ia.ac.cn,2512.24754v1,2025-12-31T09:55:18Z,AstroReview: An LLM-driven Multi-Agent Framework for Telescope Proposal Peer Review and Refinement,arxiv_html
+Yisheng Lv,yisheng.lv@ia.ac.cn,2512.24754v1,2025-12-31T09:55:18Z,AstroReview: An LLM-driven Multi-Agent Framework for Telescope Proposal Peer Review and Refinement,arxiv_html
+Yulong Gao,gaoyulong8@jd.com,2602.22226v1,2025-12-31T09:05:59Z,SEGB: Self-Evolved Generative Bidding with Local Autoregressive Diffusion,arxiv_html
+Wan Jiang,jiangwan1@jd.com,2602.22226v1,2025-12-31T09:05:59Z,SEGB: Self-Evolved Generative Bidding with Local Autoregressive Diffusion,arxiv_html
+Mingzhe Cao,caomingzhe1@jd.com,2602.22226v1,2025-12-31T09:05:59Z,SEGB: Self-Evolved Generative Bidding with Local Autoregressive Diffusion,arxiv_html
+Xuepu Wang,wangxuepu1@jd.com,2602.22226v1,2025-12-31T09:05:59Z,SEGB: Self-Evolved Generative Bidding with Local Autoregressive Diffusion,arxiv_html
+Zeyu Pan,panzeyu3@jd.com,2602.22226v1,2025-12-31T09:05:59Z,SEGB: Self-Evolved Generative Bidding with Local Autoregressive Diffusion,arxiv_html
+Haonan Yang,haonanyang@csu.edu.cn,2602.22226v1,2025-12-31T09:05:59Z,SEGB: Self-Evolved Generative Bidding with Local Autoregressive Diffusion,arxiv_html
+Ye Liu,liuye162@jd.com,2602.22226v1,2025-12-31T09:05:59Z,SEGB: Self-Evolved Generative Bidding with Local Autoregressive Diffusion,arxiv_html
+Xin Yang,haonanyang@csu.edu.cn,2602.22226v1,2025-12-31T09:05:59Z,SEGB: Self-Evolved Generative Bidding with Local Autoregressive Diffusion,arxiv_html
+Yulei Niu,yulei.niu@bytedance.com,2512.24731v1,2025-12-31T08:58:30Z,EchoFoley: Event-Centric Hierarchical Control for Video Grounded Creative Sound Generation,arxiv_html
+Evagoras Makridis,makridis.evagoras@ucy.ac.cy,2512.24700v1,2025-12-31T08:05:34Z,Average Consensus with Dynamic Quantization Framing and Finite-Time Termination over Limited-Bandwidth Directed Networks,arxiv_html
+Gabriele Oliva,g.oliva@unicampus.it,2512.24700v1,2025-12-31T08:05:34Z,Average Consensus with Dynamic Quantization Framing and Finite-Time Termination over Limited-Bandwidth Directed Networks,arxiv_html
+Apostolos I. Rikos,apostolosr@hkust-gz.edu.cn,2512.24700v1,2025-12-31T08:05:34Z,Average Consensus with Dynamic Quantization Framing and Finite-Time Termination over Limited-Bandwidth Directed Networks,arxiv_html
+Themistoklis Charalambous,charalambous.themistoklis@ucy.ac.cy,2512.24700v1,2025-12-31T08:05:34Z,Average Consensus with Dynamic Quantization Framing and Finite-Time Termination over Limited-Bandwidth Directed Networks,arxiv_html
+Maoyuan Li,mli302@aucklanduni.ac.nz,2512.24684v1,2025-12-31T07:33:12Z,R-Debater: Retrieval-Augmented Debate Generation through Argumentative Memory,arxiv_html
+Zhongsheng Wang,zhongsheng.wang@auckland.ac.nz,2512.24684v1,2025-12-31T07:33:12Z,R-Debater: Retrieval-Augmented Debate Generation through Argumentative Memory,arxiv_html
+Haoyuan Li,hli962@aucklanduni.ac.nz,2512.24684v1,2025-12-31T07:33:12Z,R-Debater: Retrieval-Augmented Debate Generation through Argumentative Memory,arxiv_html
+Jiamou Liu,jiamou.liu@auckland.ac.nz,2512.24684v1,2025-12-31T07:33:12Z,R-Debater: Retrieval-Augmented Debate Generation through Argumentative Memory,arxiv_html
+Casey O. Barkan,cbarkan@rand.org,2512.24661v1,2025-12-31T06:14:46Z,Do Large Language Models Know What They Are Capable Of?,arxiv_html
+Yury Kolomeytsev,yury.kolomeytsev@gmail.com,2512.24651v1,2025-12-31T05:58:57Z,Hybrid Motion Planning with Deep Reinforcement Learning for Mobile Robot Navigation,arxiv_html
+Cheng Zhu,zhucheng@hnu.edu.cn,2512.24645v1,2025-12-31T05:38:33Z,AudioFab: Building A General and Intelligent Audio Factory through Tool Learning,arxiv_html
+Qianshuai Xue,xueqianshuai@hnu.edu.cn,2512.24645v1,2025-12-31T05:38:33Z,AudioFab: Building A General and Intelligent Audio Factory through Tool Learning,arxiv_html
+Kehan Wang,wangkh@hnu.edu.cn,2512.24645v1,2025-12-31T05:38:33Z,AudioFab: Building A General and Intelligent Audio Factory through Tool Learning,arxiv_html
+Huan Zhao,hzhao@hnu.edu.cn,2512.24645v1,2025-12-31T05:38:33Z,AudioFab: Building A General and Intelligent Audio Factory through Tool Learning,arxiv_html
+Zixing Zhang,zixingzhang@hnu.edu.cn,2512.24645v1,2025-12-31T05:38:33Z,AudioFab: Building A General and Intelligent Audio Factory through Tool Learning,arxiv_html
+Md Nazmus Sakib,msakib1@umbc.edu,2512.24632v1,2025-12-31T05:11:19Z,ReflecToMeet: An AI-Assisted Reflection Based System to Enhance Collaborative Preparedness,arxiv_html
+Sanorita Dey,sanorita@umbc.edu,2512.24632v1,2025-12-31T05:11:19Z,ReflecToMeet: An AI-Assisted Reflection Based System to Enhance Collaborative Preparedness,arxiv_html
+Manish Bhatt,manish.bhatt13212@gmail.comthis,2601.00042v2,2025-12-31T03:38:38Z,Large Empirical Case Study: Go-Explore adapted for AI Red Team Testing,arxiv_html
+Wenrui Liu,liuwenrui@pku.edu.cn,2512.24565v3,2025-12-31T02:09:48Z,MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use,arxiv_html
+Elsie Dai,elsiedai@stu.pku.edu.cn,2512.24565v3,2025-12-31T02:09:48Z,MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use,arxiv_html
+Tong Yang,yangtong@pku.edu.cn,2512.24565v3,2025-12-31T02:09:48Z,MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use,arxiv_html
+Basile Terver,basileterv@meta.com,2512.24497v2,2025-12-30T22:50:03Z,What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?,arxiv_html
+Tsung-Yen Yang,jimmytyyang@meta.com,2512.24497v2,2025-12-30T22:50:03Z,What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?,arxiv_html
+Jean Ponce,jean.ponce@ens.fr,2512.24497v2,2025-12-30T22:50:03Z,What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?,arxiv_html
+Adrien Bardes,abardes@meta.com,2512.24497v2,2025-12-30T22:50:03Z,What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?,arxiv_html
+Yann LeCun,yann@meta.com,2512.24497v2,2025-12-30T22:50:03Z,What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?,arxiv_html
+Jingyu Zhang,jingyuz@uw.edu,2512.24415v1,2025-12-30T18:57:52Z,Language Model Agents Under Attack: A Cross Model-Benchmark of Profit-Seeking Behaviors in Customer Service,arxiv_html
+Roman Shvydkoy,shvydkoy@uic.edu,2512.24383v1,2025-12-30T17:51:52Z,Mean-Field Limits of Deterministic and Stochastic Flocking Models with Nonlinear Velocity Alignment,arxiv_html
+Shinnosuke Mizuno,mizuno-shinnosuke658@g.ecc.u-tokyo.ac.jp,2512.24329v1,2025-12-30T16:31:08Z,World model inspired sarcasm reasoning with large language model agents,arxiv_html
+Xinyi Zang,zangxinyi3@jd.com,2512.24325v1,2025-12-30T16:27:41Z,MaRCA: Multi-Agent Reinforcement Learning for Dynamic Computation Allocation in Large-Scale Recommender Systems,arxiv_html
+Yudong Zhao,zhaoyudong10@jd.com,2512.24325v1,2025-12-30T16:27:41Z,MaRCA: Multi-Agent Reinforcement Learning for Dynamic Computation Allocation in Large-Scale Recommender Systems,arxiv_html
+Yusi Zou,zouyusi1@jd.com,2512.24325v1,2025-12-30T16:27:41Z,MaRCA: Multi-Agent Reinforcement Learning for Dynamic Computation Allocation in Large-Scale Recommender Systems,arxiv_html
+Yunfei Lu,luyunfei1@jd.com,2512.24325v1,2025-12-30T16:27:41Z,MaRCA: Multi-Agent Reinforcement Learning for Dynamic Computation Allocation in Large-Scale Recommender Systems,arxiv_html
+Yang Liu,liuyang123@jd.com,2512.24325v1,2025-12-30T16:27:41Z,MaRCA: Multi-Agent Reinforcement Learning for Dynamic Computation Allocation in Large-Scale Recommender Systems,arxiv_html
+Ming Li,liming666@jd.com,2512.24325v1,2025-12-30T16:27:41Z,MaRCA: Multi-Agent Reinforcement Learning for Dynamic Computation Allocation in Large-Scale Recommender Systems,arxiv_html
+Jiani Shi,shijiani@jd.com,2512.24325v1,2025-12-30T16:27:41Z,MaRCA: Multi-Agent Reinforcement Learning for Dynamic Computation Allocation in Large-Scale Recommender Systems,arxiv_html
+Xin Yang,liuyang123@jd.com,2512.24325v1,2025-12-30T16:27:41Z,MaRCA: Multi-Agent Reinforcement Learning for Dynamic Computation Allocation in Large-Scale Recommender Systems,arxiv_html
+Siyuan Huang,syhuang@bigai.ai,2512.24321v1,2025-12-30T16:20:13Z,UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots,arxiv_html
+Mathieu Laurière,mathieu.lauriere@nyu.edu,2512.24313v1,2025-12-30T16:10:28Z,Discrete-Time Mean Field Type Games: Probabilistic Setup,arxiv_html
+Jonathan Schmoll,jonathan.schmoll@student.uibk.ac.at,2512.24289v1,2025-12-30T15:28:03Z,Automated Analysis of Sustainability Reports: Using Large Language Models for the Extraction and Prediction of EU Taxonomy-Compliant KPIs,arxiv_html
+Adam Jatowt,adam.jatowt@uibk.ac.at,2512.24289v1,2025-12-30T15:28:03Z,Automated Analysis of Sustainability Reports: Using Large Language Models for the Extraction and Prediction of EU Taxonomy-Compliant KPIs,arxiv_html
+Anwesh Reddy Paduri,anwesh@greatlearning.in,2601.00868v1,2025-12-30T13:27:26Z,SmartFlow Reinforcement Learning and Agentic AI for Bike-Sharing Optimisation,arxiv_html
+Giuseppe Canale,g.canale@cpf3.org,2601.00867v1,2025-12-30T13:25:36Z,The Silicon Psyche: Anthropomorphic Vulnerabilities in Large Language Models,arxiv_html
+Kashyap Thimmaraju,kashyap.thimmaraju@flowguard-institute.com,2601.00867v1,2025-12-30T13:25:36Z,The Silicon Psyche: Anthropomorphic Vulnerabilities in Large Language Models,arxiv_html
+Maxime Lucet,maxime.lucet@lip6.fr,2512.24105v1,2025-12-30T09:27:50Z,Multilevel Fair Allocation,arxiv_html
+Nawal Benabbou,nawal.benabbou@lip6.fr,2512.24105v1,2025-12-30T09:27:50Z,Multilevel Fair Allocation,arxiv_html
+Aurélie Beynier,aurelie.beynier@lip6.fr,2512.24105v1,2025-12-30T09:27:50Z,Multilevel Fair Allocation,arxiv_html
+Nicolas Maudet,nicolas.maudet@lip6.fr,2512.24105v1,2025-12-30T09:27:50Z,Multilevel Fair Allocation,arxiv_html
+Gaurab Chhetri,gaurab@txstate.edu,2512.24008v2,2025-12-30T06:09:12Z,SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing,arxiv_html
+Subasish Das,subasish@txstate.edu,2512.24008v2,2025-12-30T06:09:12Z,SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing,arxiv_html
+Hung-Fu Chang,hchang@uindy.edu,2512.23982v1,2025-12-30T04:39:59Z,Coding With AI: From a Reflection on Industrial Practices to Future Computer Science and Software Engineering Education,arxiv_html
+MohammadShokrolah Shirazi,mshokrolahshirazi@marian.edu,2512.23982v1,2025-12-30T04:39:59Z,Coding With AI: From a Reflection on Industrial Practices to Future Computer Science and Software Engineering Education,arxiv_html
+Lizhou Cao,lcao@umes.edu,2512.23982v1,2025-12-30T04:39:59Z,Coding With AI: From a Reflection on Industrial Practices to Future Computer Science and Software Engineering Education,arxiv_html
+Supannika Koolmanojwong Mobasser,supannika@gmail.com,2512.23982v1,2025-12-30T04:39:59Z,Coding With AI: From a Reflection on Industrial Practices to Future Computer Science and Software Engineering Education,arxiv_html
+David Simchi-Levi,dslevi@mit.edu,2512.23978v1,2025-12-30T04:24:06Z,Assured Autonomy: How Operations Research Powers and Orchestrates Generative AI Systems,arxiv_html
+Michelle Xiao Wu,michelle.xiao.wu@gmail.com,2512.23978v1,2025-12-30T04:24:06Z,Assured Autonomy: How Operations Research Powers and Orchestrates Generative AI Systems,arxiv_html
+Yao Xie,yao.xie@isye.gatech.edu,2512.23978v1,2025-12-30T04:24:06Z,Assured Autonomy: How Operations Research Powers and Orchestrates Generative AI Systems,arxiv_html
+Chen Zhang,zhangchen76@meituan.com,2512.23966v2,2025-12-30T03:39:04Z,Efficient Context Scaling with LongCat ZigZag Attention,arxiv_html
+Xin Chen,zhangchen76@meituan.com,2512.23966v2,2025-12-30T03:39:04Z,Efficient Context Scaling with LongCat ZigZag Attention,arxiv_html
+Hesam Khoshkbari,hesam.khoshkbari.1@ens.etsmtl.ca,2512.23902v1,2025-12-29T23:50:31Z,Beamforming for Massive MIMO Aerial Communications: A Robust and Scalable DRL Approach,arxiv_html
+Georges Kaddoum,georges.kaddoum@etsmtl.ca,2512.23902v1,2025-12-29T23:50:31Z,Beamforming for Massive MIMO Aerial Communications: A Robust and Scalable DRL Approach,arxiv_html
+Omid Abbasi,omidabbasi@sce.carleton.ca,2512.23902v1,2025-12-29T23:50:31Z,Beamforming for Massive MIMO Aerial Communications: A Robust and Scalable DRL Approach,arxiv_html
+Bassant Selim,bassant.selim@etsmtl.ca,2512.23902v1,2025-12-29T23:50:31Z,Beamforming for Massive MIMO Aerial Communications: A Robust and Scalable DRL Approach,arxiv_html
+Halim Yanikomeroglu,halim@sce.carleton.ca,2512.23902v1,2025-12-29T23:50:31Z,Beamforming for Massive MIMO Aerial Communications: A Robust and Scalable DRL Approach,arxiv_html
+Xu Huang,xu_huang@berkeley.edu,2512.23880v2,2025-12-29T21:50:23Z,CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution,arxiv_html
+Junwu Chen,junwu.chen@epfl.ch,2512.23880v2,2025-12-29T21:50:23Z,CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution,arxiv_html
+Yuxing Fei,yuxingfei@berkeley.edu,2512.23880v2,2025-12-29T21:50:23Z,CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution,arxiv_html
+Zhuohan Li,zhuohanli@lbl.gov,2512.23880v2,2025-12-29T21:50:23Z,CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution,arxiv_html
+Philippe Schwaller,philippe.schwaller@epfl.ch,2512.23880v2,2025-12-29T21:50:23Z,CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution,arxiv_html
+Gerbrand Ceder,gceder@berkeley.edu,2512.23880v2,2025-12-29T21:50:23Z,CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution,arxiv_html
+Denae Ford,denae@microsoft.com,2512.23859v1,2025-12-29T20:52:17Z,Seeking Late Night Life Lines: Experiences of Conversational AI Use in Mental Health Crisis,arxiv_html
+Aolin Xu,xuaolin@gmail.com,2601.06077v1,2025-12-29T19:18:19Z,"One if by Land, Two if by Sea, Three if by Four Seas, and More to Come -- Values of Perception, Prediction, Communication, and Common Sense in Decision Making",arxiv_html
+Shanghang Zhang,shanghang@pku.edu.cn,2512.23703v1,2025-12-29T18:57:44Z,Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation,arxiv_html
+Michał Eckstein,michal.eckstein@uj.edu.pl,2512.23702v1,2025-12-29T18:57:33Z,The operational no-signalling constraints and their implications,arxiv_html
+Baixuan Li,baixuan@seu.edu.cn,2512.23647v1,2025-12-29T17:59:14Z,Nested Browser-Use Learning for Agentic Information Seeking,arxiv_html
+Iris Xu,irisxu@mit.edu,2512.23631v2,2025-12-29T17:41:11Z,BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization,arxiv_html
+Hazel Kim,hazel.kim@cs.ox.ac.uk,2512.23518v1,2025-12-29T14:52:34Z,"Single LLM Debate, MoLaCE: Mixture of Latent Concept Experts Against Confirmation Bias",arxiv_html
+Siqi Song,songsq21@mails.tsinghua.edu.cn,2602.06967v1,2025-12-29T14:50:52Z,Leveraging Adaptive Group Negotiation for Heterogeneous Multi-Robot Collaboration with Large Language Models,arxiv_html
+Suting Hong,sutinghong@gmail.com,2512.23489v2,2025-12-29T14:20:31Z,The Gaining Paths to Investment Success: Information-Driven LLM Graph Reasoning for Venture Capital Prediction,arxiv_html
+Kunpeng Zhang,kpzhang@umd.edu,2512.23489v2,2025-12-29T14:20:31Z,The Gaining Paths to Investment Success: Information-Driven LLM Graph Reasoning for Venture Capital Prediction,arxiv_html
+Haipeng Zhang,kpzhang@umd.edu,2512.23489v2,2025-12-29T14:20:31Z,The Gaining Paths to Investment Success: Information-Driven LLM Graph Reasoning for Venture Capital Prediction,arxiv_html
+Simay Atasoy Bingöl,simay.atasoy@uni-konstanz.de,2512.23431v1,2025-12-29T12:50:56Z,Optimal Scalability-Aware Allocation of Swarm Robots: From Linear to Retrograde Performance via Marginal Gains,arxiv_html
+Andreagiovanni Reina,andreagiovanni.reina@uni-konstanz.de,2512.23431v1,2025-12-29T12:50:56Z,Optimal Scalability-Aware Allocation of Swarm Robots: From Linear to Retrograde Performance via Marginal Gains,arxiv_html
+Jinye Du,dujinye1@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Quan Yuan,quanyy@hnu.edu.cn,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Zuyao Zhang,zhangrenwei1@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Yanzhi Yi,yiyanzhi@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Jiahui Hu,hujiahui8@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Wangyi Chen,chenwangyi2@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Yiyang Zhu,zhuyiyang2@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Qishui Zheng,zhengqishui@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Wenxiang Zou,zouwenxiang1@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Xiangyu Chang,changxiangyu1@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Zuohe Zheng,zhengqishui@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Zichun Ye,zichun.ye@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Chao Liu,liuchao195@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Shanni Li,lishanni@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Renwei Zhang,zhangrenwei1@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Yiping Deng,yiping.deng@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Xinwei Hu,huxinwei@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Xuefeng Jin,jinxuefeng@huawei.com,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Jie Zhao,jiezhao@hnu.edu.cn,2512.23424v1,2025-12-29T12:42:05Z,AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis,arxiv_html
+Alex Lewandowski,lewandowski@ualberta.ca,2512.23419v1,2025-12-29T12:31:46Z,The World Is Bigger! A Computationally-Embedded Perspective on the Big World Hypothesis,arxiv_html
+Jiawei Chen,chenwei10@lixiang.com,2512.23412v2,2025-12-29T12:16:12Z,MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning,arxiv_html
+Wei Chen,chenwei10@lixiang.com,2512.23412v2,2025-12-29T12:16:12Z,MindWatcher: Toward Smarter Multimodal Tool-Integrated Reasoning,arxiv_html
+Kemal Ozbek,mkemalozbek@gmail.comdepartment,2512.23409v1,2025-12-29T12:10:17Z,Axiomatic Foundations of Bayesian Persuasion,arxiv_html
+Norio Takeoka,norio.takeoka@r.hit-u.ac.jp,2512.23409v1,2025-12-29T12:10:17Z,Axiomatic Foundations of Bayesian Persuasion,arxiv_html
+Molei Qin,molei001@e.ntu.edu.sg,2512.23773v1,2025-12-29T11:56:33Z,FineFT: Efficient and Risk-Aware Ensemble Reinforcement Learning for Futures Trading,arxiv_html
+Xinyu Cai,xinyu009@e.ntu.edu.sg,2512.23773v1,2025-12-29T11:56:33Z,FineFT: Efficient and Risk-Aware Ensemble Reinforcement Learning for Futures Trading,arxiv_html
+Yewen Li,yewen001@e.ntu.edu.sg,2512.23773v1,2025-12-29T11:56:33Z,FineFT: Efficient and Risk-Aware Ensemble Reinforcement Learning for Futures Trading,arxiv_html
+Haochong Xia,haochong001@e.ntu.edu.sg,2512.23773v1,2025-12-29T11:56:33Z,FineFT: Efficient and Risk-Aware Ensemble Reinforcement Learning for Futures Trading,arxiv_html
+Chuqiao Zong,zong0005@e.ntu.edu.sg,2512.23773v1,2025-12-29T11:56:33Z,FineFT: Efficient and Risk-Aware Ensemble Reinforcement Learning for Futures Trading,arxiv_html
+Shuo Sun,shuosun@hkust-gz.edu.cn,2512.23773v1,2025-12-29T11:56:33Z,FineFT: Efficient and Risk-Aware Ensemble Reinforcement Learning for Futures Trading,arxiv_html
+Xinrun Wang,xrwang@smu.edu.sg,2512.23773v1,2025-12-29T11:56:33Z,FineFT: Efficient and Risk-Aware Ensemble Reinforcement Learning for Futures Trading,arxiv_html
+Tobias Stähle,tobias.staehle@inf.ethz.ch,2512.23372v1,2025-12-29T11:05:31Z,A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics,arxiv_html
+Sophia Boyer,sophia.boyer@inf.ethz.ch,2512.23372v1,2025-12-29T11:05:31Z,A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics,arxiv_html
+Rita Sevastjanova,rita.sevastjanova@inf.ethz.ch,2512.23372v1,2025-12-29T11:05:31Z,A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics,arxiv_html
+Arpit Narechania,arpit@ust.hk,2512.23372v1,2025-12-29T11:05:31Z,A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics,arxiv_html
+Mennatallah El-Assady,menna.elassady@inf.ethz.ch,2512.23372v1,2025-12-29T11:05:31Z,A Design Space for Intelligent Agents in Mixed-Initiative Visual Analytics,arxiv_html
+Jiafeng Liang,jfliang@ir.hit.edu.cn,2512.23343v1,2025-12-29T10:01:32Z,AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents,arxiv_html
+Hao Li,haoli@ir.hit.edu.cn,2512.23343v1,2025-12-29T10:01:32Z,AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents,arxiv_html
+Chang Li,cli@ir.hit.edu.cn,2512.23343v1,2025-12-29T10:01:32Z,AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents,arxiv_html
+Shixin Jiang,sxjiang@ir.hit.edu.cn,2512.23343v1,2025-12-29T10:01:32Z,AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents,arxiv_html
+Zekun Wang,zkwang@ir.hit.edu.cn,2512.23343v1,2025-12-29T10:01:32Z,AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents,arxiv_html
+Jinlan Fu,jinlanjonna@gmail.com,2512.23343v1,2025-12-29T10:01:32Z,AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents,arxiv_html
+Xia Liang,jfliang@ir.hit.edu.cn,2512.23343v1,2025-12-29T10:01:32Z,AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents,arxiv_html
+Ming Liu,mliu@ir.hit.edu.cn,2512.23343v1,2025-12-29T10:01:32Z,AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents,arxiv_html
+Bing Qin,qinb@ir.hit.edu.cn,2512.23343v1,2025-12-29T10:01:32Z,AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents,arxiv_html
+Gang Li,ligang6867@ustb.edu.cn,2512.23320v1,2025-12-29T09:10:56Z,Multi Agents Semantic Emotion Aligned Music to Image Generation with Music Derived Captions,arxiv_html
+Kui Yu,yukui@hfut.edu.cn,2512.23300v1,2025-12-29T08:41:54Z,AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration,arxiv_html
+Ruichen Zhang,pzhang@bupt.edu.cn,2512.23294v1,2025-12-29T08:28:43Z,"Agentic AI-Enhanced Semantic Communications: Foundations, Architecture, and Applications",arxiv_html
+Ping Zhang,pzhang@bupt.edu.cn,2512.23294v1,2025-12-29T08:28:43Z,"Agentic AI-Enhanced Semantic Communications: Foundations, Architecture, and Applications",arxiv_html
+Syed Bahauddin Alam,alams@illinois.edu,2512.23292v2,2025-12-29T08:26:27Z,Agentic Physical AI toward a Domain-Specific Foundation Model for Nuclear Reactor Control,arxiv_html
+Eric Gao,ericgao@mit.edu,2512.23274v1,2025-12-29T07:55:10Z,Dynamic Decoupling in Multidimensional Screening,arxiv_html
+Gang Liao,gangliao@meta.com,2512.23236v3,2025-12-29T06:31:55Z,KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta,arxiv_html
+Carole-Jean Wu,carolejeanwu@meta.com,2512.23236v3,2025-12-29T06:31:55Z,KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta,arxiv_html
+Gaoxiang Liu,gaoxiang@meta.com,2512.23236v3,2025-12-29T06:31:55Z,KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta,arxiv_html
+Kooktae Lee,kooktae.lee@nmt.edu,2512.23158v1,2025-12-29T02:42:39Z,Breaking Symmetry-Induced Degeneracy in Multi-Agent Ergodic Coverage via Stochastic Spectral Control,arxiv_html
+Karolina Korgul,karokorgul@gmail.com,2512.23128v1,2025-12-29T01:09:10Z,It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents,arxiv_html
+Eilon Solan,eilons@tauex.tau.ac.il,2512.23115v1,2025-12-28T23:35:42Z,The Design of Optimal Dependency and Rewards,arxiv_html
+Chang Zhao,zhaochangtd@hotmail.com,2512.23115v1,2025-12-28T23:35:42Z,The Design of Optimal Dependency and Rewards,arxiv_html
+Ken Huang,ken.huang@owasp.org,2512.23760v1,2025-12-28T19:39:47Z,"Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards, Experience Synthesis, and Continual Memory",arxiv_html
+Jerry Huang,ken.huang@owasp.org,2512.23760v1,2025-12-28T19:39:47Z,"Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards, Experience Synthesis, and Continual Memory",arxiv_html
+I. Sebastian Buhai,sebastian.buhai@sofi.su.se,2512.22987v1,2025-12-28T16:09:50Z,Reputation and Disclosure in Dynamic Networks,arxiv_html
+Tianyi Hu,hutianyi2021@ia.ac.cn,2512.22941v1,2025-12-28T14:07:31Z,Heterogeneity in Multi-Agent Reinforcement Learning,arxiv_html
+Zhiqiang Pu,zhiqiang.pu@ia.ac.cn,2512.22941v1,2025-12-28T14:07:31Z,Heterogeneity in Multi-Agent Reinforcement Learning,arxiv_html
+Meicong Zhang,mczhang@stu.ecnu.edu.cn,2601.09728v1,2025-12-28T12:51:36Z,Eliminating Agentic Workflow for Introduction Generation with Parametric Stage Tokens,arxiv_html
+Hongbin Liu,hongbin.liu@xjtlu.edu.cn,2512.22895v1,2025-12-28T11:56:39Z,SAMP-HDRL: Segmented Allocation with Momentum-Adjusted Utility for Multi-agent Portfolio Management via Hierarchical Deep Reinforcement Learning,arxiv_html
+Jionglong Su,jionglong.su@xjtlu.edu.cn,2512.22895v1,2025-12-28T11:56:39Z,SAMP-HDRL: Segmented Allocation with Momentum-Adjusted Utility for Multi-agent Portfolio Management via Hierarchical Deep Reinforcement Learning,arxiv_html
+Phil Cuvin,cuvinphi@cs.stanford.edu,2512.22894v2,2025-12-28T11:55:20Z,DECEPTICON: How Dark Patterns Manipulate Web Agents,arxiv_html
+Tao Li,li.tao@cityu.edu.hk,2512.22883v1,2025-12-28T11:17:36Z,Agentic AI for Cyber Resilience: A New Security Paradigm and Its System-Theoretic Foundations,arxiv_html
+Huanjun Wang,hjwang@stu.ouc.edu.cn,2512.22873v1,2025-12-28T10:53:58Z,Facility Location Games for Multi-Location Agents with Satisfaction,arxiv_html
+Wenjing Liu,liuwj@ouc.edu.cn,2512.22873v1,2025-12-28T10:53:58Z,Facility Location Games for Multi-Location Agents with Satisfaction,arxiv_html
+Soham Padia,padia.so@northeastern.edu,2512.22860v1,2025-12-28T10:11:32Z,"Adaptive Trust Consensus for Blockchain IoT: Comparing RL, DRL, and MARL Against Naive, Collusive, Adaptive, Byzantine, and Sleeper Attacks",arxiv_html
+Dhananjay Vaidya,dhananjayvaidya4154@gmail.com,2512.22860v1,2025-12-28T10:11:32Z,"Adaptive Trust Consensus for Blockchain IoT: Comparing RL, DRL, and MARL Against Naive, Collusive, Adaptive, Byzantine, and Sleeper Attacks",arxiv_html
+Ramchandra Mangrulkar,ramchandra.mangrulkar@djcse.ac.in,2512.22860v1,2025-12-28T10:11:32Z,"Adaptive Trust Consensus for Blockchain IoT: Comparing RL, DRL, and MARL Against Naive, Collusive, Adaptive, Byzantine, and Sleeper Attacks",arxiv_html
+Anirban Chakraborti,anirban@jnu.ac.in,2512.22826v2,2025-12-28T07:30:51Z,Active-Absorbing Phase Transitions in the Parallel Minority Game,arxiv_html
+Ross Chu,ross.chu@berkeley.edu,2601.10726v1,2025-12-28T05:59:56Z,Building AI Agents to Improve Job Referral Requests to Strangers,arxiv_html
+Yuting Huang,yuting_huang@berkeley.edu,2601.10726v1,2025-12-28T05:59:56Z,Building AI Agents to Improve Job Referral Requests to Strangers,arxiv_html
+Minh Bui,buiminhb@sfu.ca,2512.22793v1,2025-12-28T05:34:11Z,Reach-Avoid Differential game with Reachability Analysis for UAVs: A decomposition approach,arxiv_html
+Simon Monckton,simon.monckton@forces.gc.ca,2512.22793v1,2025-12-28T05:34:11Z,Reach-Avoid Differential game with Reachability Analysis for UAVs: A decomposition approach,arxiv_html
+Mo Chen,mochen@cs.sfu.ca,2512.22793v1,2025-12-28T05:34:11Z,Reach-Avoid Differential game with Reachability Analysis for UAVs: A decomposition approach,arxiv_html
+Jun Wang,jun.wang@ucl.ac.uk,2512.22716v3,2025-12-27T22:15:03Z,Memento 2: Learning by Stateful Reflective Memory,arxiv_html
+Manlio De Domenico,manlio.dedomenico@unipd.it,2512.22651v1,2025-12-27T17:03:12Z,Decoding the Architecture of Living Systems,arxiv_html
+Alireza Rezaee,arrezaee@ut.ac.ir,2601.02397v1,2025-12-27T15:00:27Z,Evolutionary Algorithms for Computing Nash Equilibria in Dynamic Games,arxiv_html
+Yong Xiao,yongxiao@hust.edu.cn,2512.22579v1,2025-12-27T12:42:47Z,SANet: A Semantic-aware Agentic AI Networking Framework for Cross-layer Optimization in 6G,arxiv_html
+Yingyu Li,liyingyu29@cug.edu.cn,2512.22579v1,2025-12-27T12:42:47Z,SANet: A Semantic-aware Agentic AI Networking Framework for Cross-layer Optimization in 6G,arxiv_html
+Marwan Krunz,krunz@arizona.edu,2512.22579v1,2025-12-27T12:42:47Z,SANet: A Semantic-aware Agentic AI Networking Framework for Cross-layer Optimization in 6G,arxiv_html
+Keze Wang,kezewang@gmail.com,2512.22536v1,2025-12-27T09:38:34Z,CoAgent: Collaborative Planning and Consistency Agent for Coherent Video Generation,arxiv_html
+Ajaykrishnan E S,es.ajaykrishnan@gmail.com,2512.22475v1,2025-12-27T05:38:59Z,Beyond Exact Fairness: Envy-Free Incomplete Connected Fair Division,arxiv_html
+Daniel Lokshtanov,daniello@ucsb.edu,2512.22475v1,2025-12-27T05:38:59Z,Beyond Exact Fairness: Envy-Free Incomplete Connected Fair Division,arxiv_html
+Mohannad Alkhraijah,mohannad.alkhraijah@nrel.gov,2512.22419v1,2025-12-27T00:52:42Z,A Decomposition Method for Solving Sensitivity-Based Distributed Optimal Power Flow,arxiv_html
+Devon Sigler,devon.sigler@nrel.gov,2512.22419v1,2025-12-27T00:52:42Z,A Decomposition Method for Solving Sensitivity-Based Distributed Optimal Power Flow,arxiv_html
+Daniel K. Molzahn,molzahn@gatech.edu,2512.22419v1,2025-12-27T00:52:42Z,A Decomposition Method for Solving Sensitivity-Based Distributed Optimal Power Flow,arxiv_html
+Quanzhi Fu,quanzhif@vt.edu,2512.22404v1,2025-12-26T23:04:04Z,Mining the Gold: Student-AI Chat Logs as Rich Sources for Automated Knowledge Gap Detection,arxiv_html
+Qiyu Wu,qiyu.wu71@gmail.com,2512.22404v1,2025-12-26T23:04:04Z,Mining the Gold: Student-AI Chat Logs as Rich Sources for Automated Knowledge Gap Detection,arxiv_html
+Long Zhao,gary.zhao9012@gmail.com,2512.22351v2,2025-12-26T19:22:39Z,VULCAN: Tool-Augmented Multi Agents for Iterative 3D Object Arrangement,arxiv_html
+Saining Xie,saining.xie@nyu.edu,2512.22351v2,2025-12-26T19:22:39Z,VULCAN: Tool-Augmented Multi Agents for Iterative 3D Object Arrangement,arxiv_html
+Ping Luo,pluo.lhi@gmail.com,2512.22336v1,2025-12-26T18:54:14Z,Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback,arxiv_html
+Renxiang Wang,renxiang428@gmail.com,2512.22101v1,2025-12-26T18:02:12Z,A2P-Vis: an Analyzer-to-Presenter Agentic Pipeline for Visual Insights Generation and Reporting,arxiv_html
+Dongyeop Kang,dongyeop@umn.edu,2512.22101v1,2025-12-26T18:02:12Z,A2P-Vis: an Analyzer-to-Presenter Agentic Pipeline for Visual Insights Generation and Reporting,arxiv_html
+Alejandro Buitrago López,alejandro.buitragol@um.es,2512.22082v1,2025-12-26T16:56:45Z,Agent-based simulation of online social networks and disinformation,arxiv_html
+Alberto Ortega Pastor,alberto.o.p@um.es,2512.22082v1,2025-12-26T16:56:45Z,Agent-based simulation of online social networks and disinformation,arxiv_html
+David Montoro Aguilera,d.montoroaguilera@um.es,2512.22082v1,2025-12-26T16:56:45Z,Agent-based simulation of online social networks and disinformation,arxiv_html
+Mario Fernández Tárraga,mario.fernandezt@um.es,2512.22082v1,2025-12-26T16:56:45Z,Agent-based simulation of online social networks and disinformation,arxiv_html
+Javier Pastor-Galindo,javierpgo@um.es,2512.22082v1,2025-12-26T16:56:45Z,Agent-based simulation of online social networks and disinformation,arxiv_html
+Hui Zhang,huizhang@nwpu.edu.cn,2512.22077v1,2025-12-26T16:35:33Z,Heterogeneous fragmentation of empty sites promotes cooperation in phenotypically diverse populations with tag-mediated interactions,arxiv_html
+Tarik Hadzibeganovic,tarik.hadzibeganovic@gmail.com,2512.22077v1,2025-12-26T16:35:33Z,Heterogeneous fragmentation of empty sites promotes cooperation in phenotypically diverse populations with tag-mediated interactions,arxiv_html
+Yotam Gafni,yotam.gafni@gmail.com,2512.22051v1,2025-12-26T15:02:32Z,Centralization and Stability in Formal Constitutions,arxiv_html
+Shaofei Cai,caishaofei@stu.pku.edu.cn,2512.22322v2,2025-12-26T14:51:39Z,SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents,arxiv_html
+Yulei Qin,yuleiqin@tencent.com,2512.22322v2,2025-12-26T14:51:39Z,SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents,arxiv_html
+Siqi Cai,caishaofei@stu.pku.edu.cn,2512.22322v2,2025-12-26T14:51:39Z,SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents,arxiv_html
+Wataru Nozawa,nozawa@fukuoka-u.ac.jp,2512.22038v1,2025-12-26T14:19:04Z,Mean-Field Analysis and Optimal Control of a Dynamic Rating and Matchmaking System,arxiv_html
+Sarthak Mehrotra,sarthak2002.mehrotra@gmail.com,2512.22009v1,2025-12-26T12:09:15Z,iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception,arxiv_html
+Vineeth N Balasubramanian,vineethnb@cse.iith.ac.in,2512.22009v1,2025-12-26T12:09:15Z,iSHIFT: Lightweight Slow-Fast GUI Agent with Adaptive Perception,arxiv_html
+Praveen Kumar Donta,praveen@dsv.su.se,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Alaa Saleh,alaa.saleh@oulu.fi,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Ying Li,liying1771@163.com,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Shubham Vaishnav,shubham.vaishnav@dsv.su.se,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Kai Fang,kaifang@zafu.edu.cn,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Hailin Feng,hlfeng@zafu.edu.cn,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Thippa Reddy Gadekallu,thippa@zhongda.cn,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Qiyang Zhang,qiyangzhang@pku.edu.cn,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Xiaodan Shi,xiaodan.shi@dsv.su.se,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Ali Beikmohammadi,beikmohammadi@dsv.su.se,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Sindri Magnússon,sindri.magnusson@dsv.su.se,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Ilir Murturi,ilir.murturi@uni-pr.edu,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Chinmaya Kumar Dehury,dehury@iiserbpr.ac.in,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Marcin Paprzycki,marcin.paprzycki@ibspan.waw.pl,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Lauri Loven,lauri.loven@oulu.fi,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Sasu Tarkoma,sasu.tarkoma@helsinki.fi,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Schahram Dustdar,schahram.dustdar@upf.edu,2601.06064v1,2025-12-26T10:56:00Z,Socio-technical aspects of Agentic AI,arxiv_html
+Fang Kong,kongf@sustech.edu.cn,2512.21925v1,2025-12-26T08:42:12Z,Hybrid Combinatorial Multi-armed Bandits with Probabilistically Triggered Arms,arxiv_html
+Binyuan Hui,binyuan.hby@alibaba-inc.com,2512.21919v1,2025-12-26T08:26:18Z,SWE-RM: Execution-free Feedback For Software Engineering Agents,arxiv_html
+Kenny Workman,kenny@latch.bio,2512.21907v2,2025-12-26T07:40:11Z,SpatialBench: Can Agents Analyze Real-World Spatial Biology Data?,arxiv_html
+Hamed Yaghoobian,hamedyaghoobian@muhlenberg.edu,2512.21878v1,2025-12-26T06:01:55Z,MASFIN: A Multi-Agent System for Decomposed Financial Reasoning and Forecasting,arxiv_html
+Hartmut Löwen,hartmut.loewen@uni-duesseldorf.de,2512.21870v1,2025-12-26T05:09:55Z,Nascent biofilms on soft surfaces,arxiv_html
+Anupam Sengupta,anupam.sengupta@uni.lu,2512.21870v1,2025-12-26T05:09:55Z,Nascent biofilms on soft surfaces,arxiv_html
+Kain Lu Low,kainlu.low@xjtlu.edu.cn,2512.23742v2,2025-12-26T01:34:08Z,AgenticTCAD: A LLM-based Multi-Agent Framework for Automated TCAD Code Generation and Device Optimization,arxiv_html
+Leilai Shao,leilaishao@sjtu.edu.cn,2512.23742v2,2025-12-26T01:34:08Z,AgenticTCAD: A LLM-based Multi-Agent Framework for Automated TCAD Code Generation and Device Optimization,arxiv_html
+Vesal Ahsani,vesal.ahsani@ee.sharif.edu,2512.22298v2,2025-12-26T00:54:24Z,Real-Time In-Cabin Driver Behavior Recognition on Low-Cost Edge Hardware,arxiv_html
+Babak Hossein Khalaj,khalaj@sharif.edu,2512.22298v2,2025-12-26T00:54:24Z,Real-Time In-Cabin Driver Behavior Recognition on Low-Cost Edge Hardware,arxiv_html
+Hamed Shah-Mansouri,hamedsh@sharif.edu,2512.22298v2,2025-12-26T00:54:24Z,Real-Time In-Cabin Driver Behavior Recognition on Low-Cost Edge Hardware,arxiv_html
+Zishuo Zhao,zishuoz2@illinois.edu,2512.21794v2,2025-12-25T21:59:51Z,Multi-agent Adaptive Mechanism Design,arxiv_html
+Junwu Chen,duanchenru@gmail.com,2512.21782v1,2025-12-25T20:54:41Z,Accelerating Scientific Discovery with Autonomous Goal-evolving Agents,arxiv_html
+Carla P. Gomes,gomes@cs.cornell.edu,2512.21782v1,2025-12-25T20:54:41Z,Accelerating Scientific Discovery with Autonomous Goal-evolving Agents,arxiv_html
+Chenru Duan,duanchenru@gmail.com,2512.21782v1,2025-12-25T20:54:41Z,Accelerating Scientific Discovery with Autonomous Goal-evolving Agents,arxiv_html
+Wengong Jin,w.jin@northeastern.edu,2512.21782v1,2025-12-25T20:54:41Z,Accelerating Scientific Discovery with Autonomous Goal-evolving Agents,arxiv_html
+Junhan Chang,changjh@dp.tech,2512.21766v1,2025-12-25T19:24:05Z,UniLabOS: An AI-Native Operating System for Autonomous Laboratories,arxiv_html
+Shixiang Zhang,zhanglf@dp.tech,2512.21766v1,2025-12-25T19:24:05Z,UniLabOS: An AI-Native Operating System for Autonomous Laboratories,arxiv_html
+Junchi Yan,yanjunchi@sjtu.edu.cn,2512.21766v1,2025-12-25T19:24:05Z,UniLabOS: An AI-Native Operating System for Autonomous Laboratories,arxiv_html
+Linfeng Zhang,zhanglf@dp.tech,2512.21766v1,2025-12-25T19:24:05Z,UniLabOS: An AI-Native Operating System for Autonomous Laboratories,arxiv_html
+Aleksandr I. Panov,panov@cogailab.com,2512.21723v1,2025-12-25T15:54:08Z,HELP: Hierarchical Embodied Language Planner for Household Tasks,arxiv_html
+Michaela Levi-Richter,michaela.levi20@gmail.com,2512.23739v1,2025-12-25T15:21:49Z,Break Out the Silverware -- Semantic Understanding of Stored Household Items,arxiv_html
+Reuth Mirsky,reuth.mirsky@tufts.edu,2512.23739v1,2025-12-25T15:21:49Z,Break Out the Silverware -- Semantic Understanding of Stored Household Items,arxiv_html
+Oren Glickman,oren.glickman@biu.ac.il,2512.23739v1,2025-12-25T15:21:49Z,Break Out the Silverware -- Semantic Understanding of Stored Household Items,arxiv_html
+Tharaka Hewa,tharaka.hewa@oulu.fi,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Ross Gore,rgore@odu.edu,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Sachin Shetty,sshetty@odu.edu,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Peter Foytik,pfoytik@odu.edu,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Abdul Rahman,abdulrahman@deloitte.com,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Safdar H. Bouk,sbouk@odu.edu,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Xueping Liang,xuliang@fiu.edu,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Amin Hass,amin.hassanzadeh@accenture.com,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Sachini Rajapakse,sachini.rajapakse@iciclelabs.ai,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Kasun De Zoysa,kasun@ucsc.cmb.ac.lk,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Aruna Withanage,aruna@effectz.ai,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Nilaan Loganathan,nilaan@effectz.ai,2512.21699v1,2025-12-25T14:49:25Z,Towards Responsible and Explainable AI Agents with Consensus-Driven Reasoning,arxiv_html
+Masaaki Fujii,mfujii@e.u-tokyo.ac.jp,2512.21621v1,2025-12-25T10:50:09Z,Mean-Field Price Formation on Trees with a Network of Relative Performance Concerns,arxiv_html
+Jian Lang,jian%cb%99lang@std.uestc.edu.cn,2512.21598v1,2025-12-25T09:36:35Z,From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement,arxiv_html
+Rongpei Hong,rongpei.hong@std.uestc.edu.cn,2512.21598v1,2025-12-25T09:36:35Z,From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement,arxiv_html
+Ting Zhong,zhongting@uestc.edu.cn,2512.21598v1,2025-12-25T09:36:35Z,From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement,arxiv_html
+Leiting Chen,richardchen@uestc.edu.cn,2512.21598v1,2025-12-25T09:36:35Z,From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement,arxiv_html
+Qiang Gao,qianggao@swufe.edu.cn,2512.21598v1,2025-12-25T09:36:35Z,From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement,arxiv_html
+Fan Zhou,fan.zhou@uestc.edu.cn,2512.21598v1,2025-12-25T09:36:35Z,From Shallow Humor to Metaphor: Towards Label-Free Harmful Meme Detection via LMM Agent Self-Improvement,arxiv_html
+Giona Fieni,gfieni@idsc.mavt.ethz.ch,2512.21570v1,2025-12-25T08:27:28Z,Towards Learning-Based Formula 1 Race Strategies,arxiv_html
+P. Rajguru,prajguru@oswego.edu,2512.21467v1,2025-12-25T01:58:09Z,"The Peter Principle Revisited: An Agent-Based Model of Promotions, Efficiency, and Mitigation Policies",arxiv_html
+Lei Huang,huangleiai@buaa.edu.cn,2512.21450v1,2025-12-25T00:09:02Z,RLLaVA: An RL-central Framework for Language and Vision Assistants,arxiv_html
+Hridya Dhulipala,hridya.dhulipala@utdallas.edu,2512.21440v1,2025-12-24T22:17:29Z,Fuzzwise: Intelligent Initial Corpus Generation for Fuzzing,arxiv_html
+Xiaokai Rong,xiaokai.rong@utdallas.edu,2512.21440v1,2025-12-24T22:17:29Z,Fuzzwise: Intelligent Initial Corpus Generation for Fuzzing,arxiv_html
+Aashish Yadavally,aashish.yadavally@utdallas.edu,2512.21440v1,2025-12-24T22:17:29Z,Fuzzwise: Intelligent Initial Corpus Generation for Fuzzing,arxiv_html
+Tien N. Nguyen,tien.n.nguyen@utdallas.edu,2512.21440v1,2025-12-24T22:17:29Z,Fuzzwise: Intelligent Initial Corpus Generation for Fuzzing,arxiv_html
+Mohammed Sayagh,mohammed.sayagh@etsmtl.ca,2512.21426v1,2025-12-24T21:16:02Z,What Makes a GitHub Issue Ready for Copilot?,arxiv_html
+Junfang Luo,junfangluo@163.com,2512.21419v1,2025-12-24T20:51:48Z,Three-way conflict analysis based on alliance and conflict functions,arxiv_html
+Mengjun Hu,mengjun.hu@uregina.ca,2512.21419v1,2025-12-24T20:51:48Z,Three-way conflict analysis based on alliance and conflict functions,arxiv_html
+Guangming Lang,langguangming1984@126.com,2512.21419v1,2025-12-24T20:51:48Z,Three-way conflict analysis based on alliance and conflict functions,arxiv_html
+Xin Yang,yangxin@swufe.edu.cn,2512.21419v1,2025-12-24T20:51:48Z,Three-way conflict analysis based on alliance and conflict functions,arxiv_html
+Keyun Qin,keyunqin@126.net,2512.21419v1,2025-12-24T20:51:48Z,Three-way conflict analysis based on alliance and conflict functions,arxiv_html
+Suyang Wang,suyang.wang@csusb.edu,2512.21412v1,2025-12-24T20:24:16Z,A Survey of Freshness-Aware Wireless Networking with Reinforcement Learning,arxiv_html
+Yu Cheng,cheng@illinoistech.edu,2512.21412v1,2025-12-24T20:24:16Z,A Survey of Freshness-Aware Wireless Networking with Reinforcement Learning,arxiv_html
+Xiaoyu Mo,xiaoyu006@e.ntu.edu.sg,2512.21133v1,2025-12-24T12:02:35Z,SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation,arxiv_html
+Jintian Ge,jintian001@e.ntu.edu.sg,2512.21133v1,2025-12-24T12:02:35Z,SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation,arxiv_html
+Zifan Wang,zifanw@kth.se,2512.21133v1,2025-12-24T12:02:35Z,SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation,arxiv_html
+Sichun Luo,sichunluo2@gmail.com,2512.21120v1,2025-12-24T11:39:00Z,ClarifyMT-Bench: Benchmarking and Improving Multi-Turn Clarification for Conversational Large Language Models,arxiv_html
+Soumi Chattopadhyay,soumi@iiti.ac.in,2512.21039v2,2025-12-24T08:06:52Z,Agentic Multi-Persona Framework for Evidence-Aware Fake News Detection,arxiv_html
+Chandranath Adak,chandranath@iitp.ac.in,2512.21039v2,2025-12-24T08:06:52Z,Agentic Multi-Persona Framework for Evidence-Aware Fake News Detection,arxiv_html
+Zhonghao Jiang,zhonghao.j@zju.edu.cn,2512.22256v1,2025-12-24T08:05:10Z,Agentic Software Issue Resolution with Large Language Models: A Survey,arxiv_html
+David Lo,davidlo@smu.edu.sg,2512.22256v1,2025-12-24T08:05:10Z,Agentic Software Issue Resolution with Large Language Models: A Survey,arxiv_html
+Oussama Ben Sghaier,oussama.sghaier@queensu.ca,2512.21028v1,2025-12-24T07:51:15Z,Artificial or Just Artful? Do LLMs Bend the Rules in Programming?,arxiv_html
+Kevin Delcourt,kevin.delcourt@umontreal.ca,2512.21028v1,2025-12-24T07:51:15Z,Artificial or Just Artful? Do LLMs Bend the Rules in Programming?,arxiv_html
+Xudong Wang,xdwang@bupt.edu.cn,2512.20997v1,2025-12-24T06:49:43Z,LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT,arxiv_html
+Lei Feng,fenglei@bupt.edu.cn,2512.20997v1,2025-12-24T06:49:43Z,LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT,arxiv_html
+Ruichen Zhang,ruichen.zhang@ntu.edu.sg,2512.20997v1,2025-12-24T06:49:43Z,LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT,arxiv_html
+Fanqin Zhou,fqzhou2012@bupt.edu.cn,2512.20997v1,2025-12-24T06:49:43Z,LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT,arxiv_html
+Hongyang Du,duhy@eee.hku.hk,2512.20997v1,2025-12-24T06:49:43Z,LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT,arxiv_html
+Abbas Jamalipour,a.jamalipour@ieee.org,2512.20997v1,2025-12-24T06:49:43Z,LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT,arxiv_html
+Ping Zhang,ruichen.zhang@ntu.edu.sg,2512.20997v1,2025-12-24T06:49:43Z,LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT,arxiv_html
+Jie Feng,fengj12ee@hotmail.com,2512.20996v1,2025-12-24T06:48:04Z,TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control,arxiv_html
+Yong Li,liyong07@tsinghua.edu.cn,2512.20996v1,2025-12-24T06:48:04Z,TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control,arxiv_html
+Yihan Xia,xiayihan2023@email.szu.edu.cn,2512.20973v1,2025-12-24T06:00:39Z,DAO-Agent: Zero Knowledge-Verified Incentives for Decentralized Multi-Agent Coordination,arxiv_html
+Taotao Wang,ttwang@szu.edu.cn,2512.20973v1,2025-12-24T06:00:39Z,DAO-Agent: Zero Knowledge-Verified Incentives for Decentralized Multi-Agent Coordination,arxiv_html
+Wenxin Xu,xuwenxin2022@email.szu.edu.cn,2512.20973v1,2025-12-24T06:00:39Z,DAO-Agent: Zero Knowledge-Verified Incentives for Decentralized Multi-Agent Coordination,arxiv_html
+Yifan Yao,yaoyifan@proton.me,2512.21371v1,2025-12-24T05:34:05Z,The Imitation Game: Using Large Language Models as Chatbots to Combat Chat-Based Cybercrimes,arxiv_html
+Baojuan Wang,baojuan.wang@drexel.edu,2512.21371v1,2025-12-24T05:34:05Z,The Imitation Game: Using Large Language Models as Chatbots to Combat Chat-Based Cybercrimes,arxiv_html
+Jinhao Duan,jinhao@cs.unc.edu,2512.21371v1,2025-12-24T05:34:05Z,The Imitation Game: Using Large Language Models as Chatbots to Combat Chat-Based Cybercrimes,arxiv_html
+Kaidi Xu,kaidixu@cityu.edu.hk,2512.21371v1,2025-12-24T05:34:05Z,The Imitation Game: Using Large Language Models as Chatbots to Combat Chat-Based Cybercrimes,arxiv_html
+Nimisha Ghosh,nimishaghosh@snuchennai.edu.in,2512.20958v1,2025-12-24T05:29:35Z,ReACT-Drug: Reaction-Template Guided Reinforcement Learning for de novo Drug Design,arxiv_html
+Yue Wang,wangyue@iipc.zju.edu.cn,2512.20940v1,2025-12-24T04:53:03Z,ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments,arxiv_html
+Hongxing Fan,fanhongxing@buaa.edu.cn,2512.20936v1,2025-12-24T04:39:45Z,Reasoning-Driven Amodal Completion: Collaborative Agents and Perceptual Evaluation,arxiv_html
+Shuyu Zhao,zhaoshuyu@buaa.edu.cn,2512.20936v1,2025-12-24T04:39:45Z,Reasoning-Driven Amodal Completion: Collaborative Agents and Perceptual Evaluation,arxiv_html
+Jiayang Ao,jiayanga@student.unimelb.edu.au,2512.20936v1,2025-12-24T04:39:45Z,Reasoning-Driven Amodal Completion: Collaborative Agents and Perceptual Evaluation,arxiv_html
+Lu Sheng,lsheng@buaa.edu.cn,2512.20936v1,2025-12-24T04:39:45Z,Reasoning-Driven Amodal Completion: Collaborative Agents and Perceptual Evaluation,arxiv_html
+Hieu Do Quang,hieu.dq226325@sis.hust.edu.vn,2601.10725v1,2025-12-24T04:36:28Z,Multi-Agent Formation Navigation Using Diffusion-Based Trajectory Generation,arxiv_html
+Chien Truong-Quoc,chien.truongquoc@hust.edu.vn,2601.10725v1,2025-12-24T04:36:28Z,Multi-Agent Formation Navigation Using Diffusion-Based Trajectory Generation,arxiv_html
+Quoc Van Tran,chien.truongquoc@hust.edu.vn,2601.10725v1,2025-12-24T04:36:28Z,Multi-Agent Formation Navigation Using Diffusion-Based Trajectory Generation,arxiv_html
+Siqi Mu,musiqi@bsu.edu.cn,2512.20902v1,2025-12-24T03:06:37Z,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction,arxiv_html
+Yang Lu,yanglu@bjtu.edu.cn,2512.20902v1,2025-12-24T03:06:37Z,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction,arxiv_html
+Ruihong Jiang,rhjiang@bupt.edu.cn,2512.20902v1,2025-12-24T03:06:37Z,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction,arxiv_html
+Bo Ai,boai@bjtu.edu.cn,2512.20902v1,2025-12-24T03:06:37Z,Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction,arxiv_html
+Hiroyuki Ohsaki,ohsaki@kwansei.ac.jp,2512.20884v1,2025-12-24T02:02:25Z,The Silent Scholar Problem: A Probabilistic Framework for Breaking Epistemic Asymmetry in LLM Agents,arxiv_html
+Bryan Ng,ckbryan@hotmail.com,2512.20884v1,2025-12-24T02:02:25Z,The Silent Scholar Problem: A Probabilistic Framework for Breaking Epistemic Asymmetry in LLM Agents,arxiv_html
+Mohammad Taghi Dabiri,mdabiri@hbku.edu.qa,2512.20835v1,2025-12-23T23:22:38Z,QoS- and Physics-Aware Routing in Optical LEO Satellite Networks via Deep Reinforcement Learning,arxiv_html
+Rula Ammuri,rammuri@pst.jo,2512.20835v1,2025-12-23T23:22:38Z,QoS- and Physics-Aware Routing in Optical LEO Satellite Networks via Deep Reinforcement Learning,arxiv_html
+Mazen Hasna,hasna@qu.edu.qa,2512.20835v1,2025-12-23T23:22:38Z,QoS- and Physics-Aware Routing in Optical LEO Satellite Networks via Deep Reinforcement Learning,arxiv_html
+Khalid Qaraqe,kqaraqe@hbku.edu.qa,2512.20835v1,2025-12-23T23:22:38Z,QoS- and Physics-Aware Routing in Optical LEO Satellite Networks via Deep Reinforcement Learning,arxiv_html
+Xin Chen,xin_chen@tamu.edu,2512.20789v1,2025-12-23T21:36:20Z,X-GridAgent: An LLM-Powered Agentic AI System for Assisting Power Grid Analysis,arxiv_html
+Ramatu Oiza Abdulsalam,rabdulsalam@student.aust.edu.ng,2512.20780v1,2025-12-23T21:29:09Z,Large Language Models Approach Expert Pedagogical Quality in Math Tutoring but Differ in Instructional and Linguistic Profiles,arxiv_html
+Segun Aroyehun,segun.aroyehun@uni-konstanz.de,2512.20780v1,2025-12-23T21:29:09Z,Large Language Models Approach Expert Pedagogical Quality in Math Tutoring but Differ in Instructional and Linguistic Profiles,arxiv_html
+Vadim Indelman,vadim.indelman@technion.ac.il,2512.20778v1,2025-12-23T21:25:53Z,Towards Optimal Performance and Action Consistency Guarantees in Dec-POMDPs with Inconsistent Beliefs and Limited Communication,arxiv_html
+Jie Chen,jiechen@ieee.org,2512.20722v1,2025-12-23T19:34:29Z,Learning-Enabled Elastic Network Topology for Distributed ISAC Service Provisioning,arxiv_html
+Xianbin Wang,xianbin.wang@uwo.ca,2512.20722v1,2025-12-23T19:34:29Z,Learning-Enabled Elastic Network Topology for Distributed ISAC Service Provisioning,arxiv_html
+Runtao Liu,rliuay@connect.ust.hk,2512.20618v1,2025-12-23T18:59:49Z,LongVideoAgent: Multi-Agent Reasoning with Long Videos,arxiv_html
+Ziyi Liu,ziyiliu0811@outlook.com,2512.20618v1,2025-12-23T18:59:49Z,LongVideoAgent: Multi-Agent Reasoning with Long Videos,arxiv_html
+Humza Nusrat,hnusrat1@hfhs.org,2512.20586v1,2025-12-23T18:32:17Z,Automated stereotactic radiosurgery planning using a human-in-the-loop reasoning large language model agent,arxiv_html
+Vinayak Regmi,vregmi@purdue.edu,2512.20550v1,2025-12-23T17:46:15Z,LLM-Based Authoring of Agent-Based Narratives through Scene Descriptions,arxiv_html
+Christos Mousas,cmousas@purdue.edu,2512.20550v1,2025-12-23T17:46:15Z,LLM-Based Authoring of Agent-Based Narratives through Scene Descriptions,arxiv_html
+Daxin Jiang,djiang@stepfun.com,2512.20491v4,2025-12-23T16:32:27Z,Step-DeepResearch Technical Report,arxiv_html
+Revanth Gangi Reddy,revanth3@illinois.edu,2512.20482v1,2025-12-23T16:18:39Z,"SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization",arxiv_html
+Pedro Domingos,domingospa.domingos@campus.fct.unl,2512.20417v1,2025-12-23T15:01:05Z,Chain-of-Anomaly Thoughts with Large Vision-Language Models,arxiv_html
+João Pereira,pereirajaca.pereira@campus.fct.unl,2512.20417v1,2025-12-23T15:01:05Z,Chain-of-Anomaly Thoughts with Large Vision-Language Models,arxiv_html
+David Semedo,semedodf.semedo@fct.unl,2512.20417v1,2025-12-23T15:01:05Z,Chain-of-Anomaly Thoughts with Large Vision-Language Models,arxiv_html
+Nishant Gaurav,nishant@agentr.dev,2512.20278v1,2025-12-23T11:33:32Z,Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation,arxiv_html
+Adit Akarsh,adit@agentr.dev,2512.20278v1,2025-12-23T11:33:32Z,Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation,arxiv_html
+Ankit Ranjan,ankit@agentr.dev,2512.20278v1,2025-12-23T11:33:32Z,Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation,arxiv_html
+Manoj Bajaj,manoj@agentr.dev,2512.20278v1,2025-12-23T11:33:32Z,Synthesizing Procedural Memory: Challenges and Architectures in Automated Workflow Generation,arxiv_html
+Vignesh Ethiraj,vignesh.e@netoai.ai,2512.20275v1,2025-12-23T11:27:17Z,Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks,arxiv_html
+Edith Elkind,edith.elkind@northwestern.edu,2512.20261v1,2025-12-23T11:16:26Z,Maximizing the Egalitarian Welfare in Friends and Enemies Games,arxiv_html
+Michele Flammini,michele.flammini@gssi.it,2512.20261v1,2025-12-23T11:16:26Z,Maximizing the Egalitarian Welfare in Friends and Enemies Games,arxiv_html
+Giovanna Varricchio,giovanna.varricchio@unical.it,2512.20261v1,2025-12-23T11:16:26Z,Maximizing the Egalitarian Welfare in Friends and Enemies Games,arxiv_html
+Jiawei Ge,jiawei_ge@seu.edu.cn,2512.20260v4,2025-12-23T11:16:16Z,Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations,arxiv_html
+Xuelin Zhu,xuelin.zhu@polyu.edu.hk,2512.20260v4,2025-12-23T11:16:16Z,Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations,arxiv_html
+Chang Liu,liuchang22@seu.edu.cn,2512.20260v4,2025-12-23T11:16:16Z,Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations,arxiv_html
+Bo Liu,bliu@seu.edu.cn,2512.20260v4,2025-12-23T11:16:16Z,Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations,arxiv_html
+Chen Feng,c.feng@qub.ac.uk,2512.20260v4,2025-12-23T11:16:16Z,Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations,arxiv_html
+Ioannis Patras,i.patras@qmul.ac.uk,2512.20260v4,2025-12-23T11:16:16Z,Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged Object Detection with Scribble Annotations,arxiv_html
+Heekang Song,hghsong@kaist.ac.kr,2512.20201v1,2025-12-23T09:49:25Z,Joint Design of Embedded Index Coding and Beamforming for MIMO-based Distributed Computing via Multi-Agent Reinforcement Learning,arxiv_html
+Wan Choi,wanchoi@snu.ac.kr,2512.20201v1,2025-12-23T09:49:25Z,Joint Design of Embedded Index Coding and Beamforming for MIMO-based Distributed Computing via Multi-Agent Reinforcement Learning,arxiv_html
+Dan Chen,dan.chen@139.com,2512.20179v1,2025-12-23T09:17:44Z,RESPOND: Risk-Enhanced Structured Pattern for LLM-driven Online Node-level Decision-making,arxiv_html
+Heye Huang,heyeh@mit.edu,2512.20179v1,2025-12-23T09:17:44Z,RESPOND: Risk-Enhanced Structured Pattern for LLM-driven Online Node-level Decision-making,arxiv_html
+Tiantian Chen,dan.chen@139.com,2512.20179v1,2025-12-23T09:17:44Z,RESPOND: Risk-Enhanced Structured Pattern for LLM-driven Online Node-level Decision-making,arxiv_html
+Zheng Li,zli2674@wisc.edu,2512.20179v1,2025-12-23T09:17:44Z,RESPOND: Risk-Enhanced Structured Pattern for LLM-driven Online Node-level Decision-making,arxiv_html
+Yuhui Xu,xuyuhui@gd.chinamobile.com,2512.20179v1,2025-12-23T09:17:44Z,RESPOND: Risk-Enhanced Structured Pattern for LLM-driven Online Node-level Decision-making,arxiv_html
+Sikai Chen,dan.chen@139.com,2512.20179v1,2025-12-23T09:17:44Z,RESPOND: Risk-Enhanced Structured Pattern for LLM-driven Online Node-level Decision-making,arxiv_html
+Ze Gong,ze.gong@siat.ac.cn,2512.20173v1,2025-12-23T09:07:53Z,Offline Safe Policy Optimization From Heterogeneous Feedback,arxiv_html
+Pradeep Varakantham,pradeepv@smu.edu.sg,2512.20173v1,2025-12-23T09:07:53Z,Offline Safe Policy Optimization From Heterogeneous Feedback,arxiv_html
+Akshat Kumar,akshatkumar@smu.edu.sg,2512.20173v1,2025-12-23T09:07:53Z,Offline Safe Policy Optimization From Heterogeneous Feedback,arxiv_html
+Yiming Li,liyiming.tech@gmail.com,2512.20168v1,2025-12-23T08:53:36Z,Odysseus: Jailbreaking Commercial Multimodal LLM-integrated Systems via Dual Steganography,arxiv_html
+Jakob Bjorner,jbjorner3@gatech.edu,2512.20111v1,2025-12-23T07:11:26Z,ABBEL: LLM Agents Acting through Belief Bottlenecks Expressed in Language,arxiv_html
+Alane Suhr,suhr@berkeley.edu,2512.20111v1,2025-12-23T07:11:26Z,ABBEL: LLM Agents Acting through Belief Bottlenecks Expressed in Language,arxiv_html
+Yuntong Gu,yuntong.20@intl.zju.edu.cn,2512.20108v1,2025-12-23T07:08:21Z,Generative Bayesian Spectrum Cartography: Unified Reconstruction and Active Sensing via Diffusion Models,arxiv_html

@@ -1,0 +1,15 @@
+.DS_Store
+**/.DS_Store
+
+# Never track git metadata directories inside the project tree
+**/.git/
+
+# Migration leftovers (kept locally, not part of the new repo)
+axiv-spyder_export/
+axiv-spyder_git_backup/
+
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
