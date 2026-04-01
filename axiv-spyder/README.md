@@ -24,10 +24,4 @@ python3 axiv_email.py --count 20
 
 同时希望大家提出宝贵意见，欢迎学习交流，如果你喜欢该项目，请收藏或者fork一下，你的主动将是我前行的动力</br>
 ###  
-###
-<p>如果有任何问题请联系我Email: lizhipengqilu@gmail.com</p>
-<p>同时希望大家提出宝贵意见，欢迎学习交流，如果你喜欢该项目，请收藏或者fork一下，你的主动将是我前行的动力</p>
-</br></br>
-###
-<img src="https://github.com/Frank-qlu/axiv-spyder/blob/master/images/1.png" />
-<img src="https://github.com/Frank-qlu/axiv-spyder/blob/master/images/2.png" />
+
